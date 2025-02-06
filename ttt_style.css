@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+    color: antiquewhite;
+
+}
+button.x-mark{
+    font-size: larger;
+}
+button{
+    background-color: aquamarine;
+}
+#resetButton{
+    background-color: rgb(233, 168, 217);
+    border-radius: 9px;
+
+}
